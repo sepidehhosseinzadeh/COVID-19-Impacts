@@ -39,10 +39,11 @@ China’s large numbers in confirmed cases are overshadowing the development of 
 ![](fig08.png)
 Excluding China shows that in mid February, the cases in South Korea started to rise as well as news about the quarantined cruise ships (the purple, horizontal line emerging at the very bottom of the graph after February 15th) got more and more attention.
 ![](fig09.png)
-There is a great article on the development of the Dow Jones Index in MarketWatch which shows how long the recovery of the index took after the economy went into recession. It took 25 years to make up for the losses of the Great Depression, 16 years to recover from the economically and politically tumultuous years in the ‘70s and ‘80s and 6 years to regain what was lost during the 2008 financial crisis. Currently, we are still at the beginning of a bear market, so we don’t know when the stock market will turn around and how long it’ll take to regain losses. But regulators assume the downward trend will continue for weeks.
+
+There is a great article on the development of the Dow Jones Index in MarketWatch which shows how long the recovery of the index took after the economy went into recession. Currently, we are still at the beginning of a bear market, so we don’t know when the stock market will turn around and how long it’ll take to regain losses. But regulators assume the downward trend will continue for weeks.
+
 The Fed cut its rate to close to 0 % on Sunday evening in an attempt to calm investors. However, investors didn’t take this as a sign of confidence. Trading halted at the New York Stock Exchange the next day right after the opening because the S&P 500 fell more than 7%.
-The difference to the financial crisis of 2008 is that we are dealing with a health crisis. Any steps taken by supranational, national and local governments are aimed at avoiding a devastating crash of health care systems around the world. However, in the short- and medium-term, the restrictions immediately affect the bottom line of companies, resulting in lost jobs.
-Countries worldwide are trying to soften the blow with emergency stimulus packages for the economy or even immediate cash payments to its citizens (as announced by the Trump administration). All signs point to a recession. But the question is how long it’ll stay. Some hope there’ll be a fast bounce-back, but there is no certainty. A look at China shows that recovery may take longer than anticipated.
+
 
 ## Concolusion:
 * News: the topics discussed on TV news channels and in digital outlets and newspapers in the United States have shifted from heavily covering the Democratic presidential primary election to covering the coronavirus outbreak. Particularly Trump's handling of the situation has come under scrutiny and is heavily debated.
