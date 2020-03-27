@@ -10,8 +10,6 @@ The data used for the analysis comes from:
 * Financial data: [Yahoo Finance](https://finance.yahoo.com/)
 * Coronavirus cases: [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19)
 * News: [Media Cloud](https://explorer.mediacloud.org/#/Home) and [The GDELT Project](https://blog.gdeltproject.org/gdelt-2-0-television-api-debuts/)
-* Politics: [FiveThirtyEight](https://projects.fivethirtyeight.com/trump-approval-ratings/) and [FiveThirtyEight](https://fivethirtyeight.com/features/how-concerned-are-americans-about-coronavirus-so-far/)
-
 
 ## How serious a threat is COVID-19?
 It is without a doubt a serious threat to the entire world population. We must act today or many people will die and health care systems across the globe will collapse. The growth of new cases is exponential and has been exploding in some countries such as Italy, Iran, South Korea and China. However, the United States, Germany, France, Spain and other countries are only a few days behind the developments of more strongly affected countries.
