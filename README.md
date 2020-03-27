@@ -22,11 +22,7 @@ Italy is the country with the second highest number of cases and the growth is s
 ![](fig01.png)
 
 ## What is being talked about in the news?
-It has been virtually impossible to miss that there is currently a pandemic going on. And all the updates about COVID-19 have been drowning out anything else that is not related to the pandemic. One of those things being the Democratic primary elections and the campaigns for the general election in November.
-![](fig02.png)
-
-The above graph shows the development of news stories on the topic of COVID-19 and election related news (in the US) published in digital outlets and newspapers in the US. At the end of February, the number of COVID-19 news stories first passed the number of election news stories and this was even before Super Tuesday! Beyond that point, the number of coronavirus news stories exploded.
-What is also interesting is how things being discussed in those news stories changed over time. While in mid-February, the main concerns in the election news stories were the New Hampshire primary, Bernie Sanders, the Democrats and Trump, this shifted in mid March to Trump, Joe Biden and coronavirus. Mid February to mid March also saw in a shift in topics within COVID-19 related news stories. While most stories revolved around stranded cruise ships, the situation in China and the “new virus” in February, this changed to Trump’s actions being the center of attention in mid March.
+It has been virtually impossible to miss that there is currently a pandemic going on. And all the updates about COVID-19 have been drowning out anything else that is not related to the pandemic. 
 ![](fig03.png)
 
 TV news shifted in the same way from covering election related topics (caucuses, primaries, Democratic presidential contenders etc.) with almost 50% of airtime to an increase in coverage of the coronavirus. As of last week, the three major cable news channels (CNN, MSNBC, FOX NEWS) spent close to 20% of their airtime on the virus outbreak.
@@ -53,4 +49,3 @@ Countries worldwide are trying to soften the blow with emergency stimulus packag
 ## Concolusion:
 * News: the topics discussed on TV news channels and in digital outlets and newspapers in the United States have shifted from heavily covering the Democratic presidential primary election to covering the coronavirus outbreak. Particularly Trump's handling of the situation has come under scrutiny and is heavily debated.
 * Economy: stocks have entered a bear market and continue to drop. Looking at the past 35 years, the S&P 500 had its second and third worst days on March 16th and March 12th of this year (only Black Monday in 1987 was worse). The data as well as economists suggest that we are headed into a recession, the dimensions of which are yet to be seen.
-* Politics: local, state, congressional and presidential elections are happening this November in the US, however, election campaigns are taking a step back amid the outbreak with campaigns rallies being canceled, TV debates being held without an audience and some primaries being reschuled. The center of attention is shifting away from the elections and towards the virus and its economic effects. 
