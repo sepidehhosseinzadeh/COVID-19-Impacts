@@ -1,5 +1,5 @@
 # COVID-19-Impacts
-Investigating the political and economic perspective of COVID-19.
+Investigating the news and economic perspective of COVID-19.
 
 ## How to run the code
 The code requires Python versions of 3.* and general libraries available through the Anaconda package. Please check the covid-19.ipynb.
