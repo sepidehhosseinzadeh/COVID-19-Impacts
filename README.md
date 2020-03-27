@@ -7,10 +7,10 @@ The code requires Python versions of 3.* and general libraries available through
 ## Data
 The data used for the analysis comes from:
 
-Financial data: [Yahoo Finance](https://finance.yahoo.com/)
-Coronavirus cases: [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19)
-News: [Media Cloud](https://explorer.mediacloud.org/#/Home) and [The GDELT Project](https://blog.gdeltproject.org/gdelt-2-0-television-api-debuts/)
-Politics: [FiveThirtyEight](https://projects.fivethirtyeight.com/trump-approval-ratings/) and [FiveThirtyEight](https://fivethirtyeight.com/features/how-concerned-are-americans-about-coronavirus-so-far/)
+* Financial data: [Yahoo Finance](https://finance.yahoo.com/)
+* Coronavirus cases: [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19)
+* News: [Media Cloud](https://explorer.mediacloud.org/#/Home) and [The GDELT Project](https://blog.gdeltproject.org/gdelt-2-0-television-api-debuts/)
+* Politics: [FiveThirtyEight](https://projects.fivethirtyeight.com/trump-approval-ratings/) and [FiveThirtyEight](https://fivethirtyeight.com/features/how-concerned-are-americans-about-coronavirus-so-far/)
 
 
 ## How serious a threat is COVID-19?
